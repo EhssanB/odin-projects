@@ -3,7 +3,6 @@ body {
     flex-direction: column;
 }
 
-.header {
+.header, .nav {
     display: flex;
-    flex-direction: row;
 }
